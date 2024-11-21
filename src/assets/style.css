@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+	font-family: 'roboto';
+	src:  url('./Roboto-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'arabic';
+	src:  url('./NotoSansArabic-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
